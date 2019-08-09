@@ -7,5 +7,5 @@ Datasets are from [kaggle](https://www.kaggle.com/keplersmachines/kepler-labelle
 Determines if a star has at least one exoplanet in orbit based on its change in flux (aka light intensity)
 
 ###### Accuracy
-# Accuracy: 0.9912280701754386
-# whereas if the model were to guess 0 (no exoplanet) every time the accuracy would be: 0.991150442477876
+Accuracy: 0.9912280701754386
+whereas if the model were to guess 0 (no exoplanet) every time the accuracy would be: 0.991150442477876
